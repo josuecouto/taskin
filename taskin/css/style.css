@@ -1,0 +1,75 @@
+/*CSS*/
+
+body {
+    background-color: #4a90e2;
+    padding: 10px;
+}
+
+.container{
+    margin-top: 10px;
+}
+
+
+.form{
+    width: 70%;
+    padding: 5px;
+    border-radius: 5px;
+    border: #031120 solid 1px ;
+    text-align: center;
+    
+}
+
+.btn_nav{
+    margin-bottom: 3px;
+    font-weight: 800;
+}
+.central{
+    background-color: #e0e0e0;
+    padding: 10px;
+    border: #031120 solid 1px ;
+    border-radius: 8px;
+}
+
+.bg_cent{
+    background-color: #fff;
+}
+/*Aqui é a área de tarefas*/
+
+.h{
+    float: left;   
+    font-weight: 300;
+    font-size: 20pt;
+}
+
+.btn_task{
+    float: right;
+    font-weight: 600;
+}
+.list{
+}
+hr{
+    margin-top: 50px;
+}
+
+.list-group-item{
+    background-color: #f0f0f0;
+
+}
+.form-check-input{
+    margin-top: 20px;
+    float: left;
+    font-size: 20pt;
+    border: #7c7c7c solid 1px;
+}
+.btn_dell{
+    float: right;
+    font-size: small;
+    font-weight: 400;
+
+}
+label{
+    margin-top: 2px;
+    font-size: large;
+    font-weight: 400;
+}
+
